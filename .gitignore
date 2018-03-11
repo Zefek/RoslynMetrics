@@ -3,3 +3,10 @@
 ################################################################################
 
 /packages
+/RoslynMetrics/bin/Debug
+/RoslynMetrics/obj/Debug
+/RoslynMetrics/packages
+/RoslynMetrics.Contract/bin/Debug
+/RoslynMetrics.Contract/obj/Debug
+/RoslynMetrics.CSharp/bin/Debug
+/RoslynMetrics.CSharp/obj/Debug
